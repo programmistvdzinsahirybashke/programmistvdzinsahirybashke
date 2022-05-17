@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmistvdzinsahirybashke
 - 👀 I’m interested in automatization
-- 🌱 I’m currently learning Java, BAS
+- 🌱 I’m currently learning Python
 - 📫 How to reach me tg @negritos16
 
 <!---
