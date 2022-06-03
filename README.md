@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmistvdzinsahirybashke
 - 👀 I’m interested in automatization
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Ruby
 - 📫 How to reach me tg @negritos16 , qwezxc54@outlook.com
 
 <!---
