@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmistvdzinsahirybashke
 - 👀 I’m interested in frontend and backend 
-- 🌱 I’m currently learning Ruby, Ruby On Rails
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: tg @negritos16 , qwezxc54@outlook.com
 
 <!---
