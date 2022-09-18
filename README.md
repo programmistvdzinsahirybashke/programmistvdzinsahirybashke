@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmistvdzinsahirybashke
 - 👀 I’m interested in frontend and backend, blockchain development
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Python, Solidity
 - 📫 How to reach me: tg @negritos16 , qwezxc54@outlook.com
 
 <!---
