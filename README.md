@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @programmistvdzinsahirybashke
-- 👀 I’m interested in frontend and backend, blockchain development
+- 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: tg @negritos1488 , qwezxc54@outlook.com
 
